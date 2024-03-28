@@ -19,4 +19,4 @@ python dictionary.py
 
 
 ## 🤖 Author
-[Deepikka](https://github.com/itsmedeepikka)
+[Deepikka Purushothaman](https://github.com/itsmedeepikka)
